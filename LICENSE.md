@@ -1,4 +1,4 @@
-CERN Open Hardware Licence v1.2 
+﻿CERN Open Hardware Licence v1.2 
 
 Preamble
 
@@ -187,3 +187,4 @@ notice and without involvement of a court if the Licensee fails to
 comply with any of its terms and conditions, or if the Licensee
 initiates legal action against Licensor in relation to this
 Licence. Section 5 shall continue to apply.
+1
